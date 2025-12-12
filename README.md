@@ -85,7 +85,7 @@ print(msg)
 
 <p align="center">
   <img src="/cover.png" width="380">
-  <img src="/stego_sample.png" width="380">
+  <img src="/stego.png" width="380">
 </p>
 
 <p align="center"><em>Left: Cover | Right: Stego (spot the difference... you won't 👀)</em></p>
