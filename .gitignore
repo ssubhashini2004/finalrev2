@@ -1,7 +1,7 @@
 # Ignore generated images
 *.png
 
-
+test_results/
 
 # Ignore stego maps
 *_map.json
