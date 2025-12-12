@@ -1,8 +1,8 @@
 <div align="center">
 
 # 🌙✨ Hybrid DWT Steganography  
-### *Secure • Chaotic • Wavelet-Driven • Aesthetic Edition*
-A modern steganography system blending **DWT**, **AES-CBC**, **Arnold chaos**, and **SHA-256 deterministic embedding** — designed for high security *and* high prettiness.  
+### *Secure • Chaotic • Wavelet-Driven • Deterministic Position Generation*
+A modern steganography system blending **DWT**, **AES-CBC**, **Arnold chaos**, and **SHA-256 deterministic embedding** — designed for high security *and* high imperceptibility - embedded across R,G and B channels : 75%,20% and 5% respectively.  
 
 <br>
 
