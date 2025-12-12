@@ -1,0 +1,11 @@
+# Ignore generated images
+*.png
+
+# Ignore test output
+test_results/
+
+# Ignore stego maps
+*_map.json
+
+# Ignore Python cache
+__pycache__/
